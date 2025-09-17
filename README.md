@@ -14,6 +14,3 @@ I found this article highly related to the course content that we have covered i
 - The Agile Manifesto's principles remain relevant but need adaptation to modern software development
 - Continuous reflection on development practices is essential for growth
 - The original authors' perspectives provide valuable insights for current practitioners
-
----
-*Contributed by: Nursultan Sagyntay*
